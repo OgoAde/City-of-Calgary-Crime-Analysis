@@ -92,6 +92,8 @@ Following 2015, crime rates saw a consistent upward trend, emphasizing the need 
 **5. Data-Driven Allocation of Resources:**
 - Use predictive analytics to allocate law enforcement resources effectively and proactively address high-risk areas.<br><br>
 
+![Dashboard Screenshot](https://github.com/OgoAde/Crime-Analysis-in-the-City-of-Calgary-2012-2017-/blob/main/Screenshot%203.png)
+
 ## Methodology
 **Data Cleaning:**
 - Performed in Power Query.
@@ -109,7 +111,6 @@ Following 2015, crime rates saw a consistent upward trend, emphasizing the need 
 3. **Community Awareness:** Provides communities with data to advocate for safety improvements.<br><br>
 
 ## Screenshots
-![Dashboard Screenshot](https://github.com/OgoAde/Crime-Analysis-in-the-City-of-Calgary-2012-2017-/blob/main/Screenshot%203.png)
 ![Dashboard Screenshot](https://github.com/OgoAde/Crime-Analysis-in-the-City-of-Calgary-2012-2017-/blob/main/Screenshot%204.png)
 ![Dashboard Screenshot](https://github.com/OgoAde/Crime-Analysis-in-the-City-of-Calgary-2012-2017-/blob/main/Screenshot%205.png)
 
