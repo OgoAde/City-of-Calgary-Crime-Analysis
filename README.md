@@ -59,6 +59,8 @@ The workflow included:
 6. **Slicers for Dynamic Insights:**
 - These slicers enable stakeholders to drill deeper into the data, filtering for specific areas, timeframes, or crime categories.
 - The slicers included are; Crime Category, Crime Type, Ward Number, Sector<br><br>
+![Dashboard Screenshot](https://github.com/OgoAde/Crime-Analysis-in-the-City-of-Calgary-2012-2017-/blob/main/Screenshot%201.png)
+
 
 ## Key Findings
 **Crime Concentration:**
@@ -72,6 +74,7 @@ Crime levels dropped significantly during winter months (December to February).<
 **Yearly Trends:**
 In 2015, total crimes spiked by over 20,000—a notable anomaly compared to previous years.
 Following 2015, crime rates saw a consistent upward trend, emphasizing the need for long-term mitigation strategies.<br><br>
+![Dashboard Screenshot](https://github.com/OgoAde/Crime-Analysis-in-the-City-of-Calgary-2012-2017-/blob/main/Screenshot%202.png)
 
 ## Recommendations
 **1. Enhanced Patrols in Crime-Prone Areas:**
@@ -106,6 +109,11 @@ Following 2015, crime rates saw a consistent upward trend, emphasizing the need 
 3. **Community Awareness:** Provides communities with data to advocate for safety improvements.<br><br>
 
 ## Screenshots
+![Dashboard Screenshot](https://github.com/OgoAde/Crime-Analysis-in-the-City-of-Calgary-2012-2017-/blob/main/Screenshot%203.png)
+![Dashboard Screenshot](https://github.com/OgoAde/Crime-Analysis-in-the-City-of-Calgary-2012-2017-/blob/main/Screenshot%204.png)
+![Dashboard Screenshot](https://github.com/OgoAde/Crime-Analysis-in-the-City-of-Calgary-2012-2017-/blob/main/Screenshot%205.png)
+
+
 
 
 ## Future Enhancements
@@ -113,4 +121,6 @@ Following 2015, crime rates saw a consistent upward trend, emphasizing the need 
 2. **Predictive Modeling:** Leverage machine learning to forecast crime trends.<br><br>
 3. **Anomaly Detection:** Develop models to detect and explain crime spikes like the one in 2015.<br><br>
 
+## Link to Dashboard
+<iframe title="City of Calgary Report" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMzY5M2Y4ZTYtZTQwNS00NjkxLWJlYzQtMzA1ZTQ0OTE2MmEyIiwidCI6ImY1MmYyMTgzLTlmNjctNGFkMi1iNjU2LTZmNzU0ZmUxOTZjYiIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe>
 
