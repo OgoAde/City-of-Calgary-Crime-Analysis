@@ -123,5 +123,4 @@ Following 2015, crime rates saw a consistent upward trend, emphasizing the need 
 3. **Anomaly Detection:** Develop models to detect and explain crime spikes like the one in 2015.<br><br>
 
 ## Link to Dashboard
-<iframe title="City of Calgary Report" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMzY5M2Y4ZTYtZTQwNS00NjkxLWJlYzQtMzA1ZTQ0OTE2MmEyIiwidCI6ImY1MmYyMTgzLTlmNjctNGFkMi1iNjU2LTZmNzU0ZmUxOTZjYiIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe>
-
+https://tinyurl.com/36jbb2z7
