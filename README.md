@@ -105,6 +105,8 @@ Following 2015, crime rates saw a consistent upward trend, emphasizing the need 
 2. **Trend Prediction:** Allows law enforcement to anticipate seasonal and yearly crime patterns.<br><br>
 3. **Community Awareness:** Provides communities with data to advocate for safety improvements.<br><br>
 
+## Screenshots
+
 
 ## Future Enhancements
 1. **Real-Time Integration:** Incorporate live data feeds for up-to-date crime analysis.<br><br>
