@@ -123,5 +123,4 @@ Following 2015, crime rates saw a consistent upward trend, emphasizing the need 
 3. **Anomaly Detection:** Develop models to detect and explain crime spikes like the one in 2015.<br><br>
 
 ## Link to Dashboard
-[Explore the dataset] (https://tinyurl.com/36jbb2z7)
-
+https://tinyurl.com/Explore-the-Dashboard
