@@ -59,7 +59,7 @@ The workflow included:
 6. **Slicers for Dynamic Insights:**
 - These slicers enable stakeholders to drill deeper into the data, filtering for specific areas, timeframes, or crime categories.
 - The slicers included are; Crime Category, Crime Type, Ward Number, Sector<br><br>
-![Dashboard Screenshot](https://drive.google.com/file/d/1zUFcBhs83nCmaJb7hwmDQTWepBkEjKPP/view?usp=sharing)
+![Dashboard Screenshot](https://drive.google.com/uc?id=1zUFcBhs83nCmaJb7hwmDQTWepBkEjKPP)
 
 
 ## Key Findings
@@ -74,7 +74,7 @@ Crime levels dropped significantly during winter months (December to February).<
 **Yearly Trends:**
 In 2015, total crimes spiked by over 20,000—a notable anomaly compared to previous years.
 Following 2015, crime rates saw a consistent upward trend, emphasizing the need for long-term mitigation strategies.<br><br>
-![Dashboard Screenshot](https://drive.google.com/file/d/1iBQbdpV7oVQmvfb2FRo8n2k-Qi36HXQJ/view?usp=sharing)
+![Dashboard Screenshot](https://drive.google.com/uc?id=1iBQbdpV7oVQmvfb2FRo8n2k-Qi36HXQJ)
 
 ## Recommendations
 **1. Enhanced Patrols in Crime-Prone Areas:**
@@ -92,7 +92,7 @@ Following 2015, crime rates saw a consistent upward trend, emphasizing the need 
 **5. Data-Driven Allocation of Resources:**
 - Use predictive analytics to allocate law enforcement resources effectively and proactively address high-risk areas.<br><br>
 
-![Dashboard Screenshot](https://drive.google.com/file/d/1NSj2Ev4p-sp831bxLdQMwkScQNTf2I4T/view?usp=sharing)
+![Dashboard Screenshot](https://drive.google.com/uc?id=1NSj2Ev4p-sp831bxLdQMwkScQNTf2I4T)
 
 ## Methodology
 **Data Cleaning:**
@@ -111,8 +111,9 @@ Following 2015, crime rates saw a consistent upward trend, emphasizing the need 
 3. **Community Awareness:** Provides communities with data to advocate for safety improvements.<br><br>
 
 ## Screenshots
-![Dashboard Screenshot](https://drive.google.com/file/d/11kSjDiHJqMSoFVy82GVLPDEwDC_Rwrp1/view?usp=sharing)
-![Dashboard Screenshot](https://drive.google.com/file/d/1FmNEFUFNvKW4-s9ijl-a6b3KvtxcVe57/view?usp=sharing)
+![Dashboard Screenshot]![Dashboard Screenshot](https://drive.google.com/uc?id=11kSjDiHJqMSoFVy82GVLPDEwDC_Rwrp1)
+
+![Dashboard Screenshot]![Dashboard Screenshot](https://drive.google.com/uc?id=1FmNEFUFNvKW4-s9ijl-a6b3KvtxcVe57)
 
 
 
