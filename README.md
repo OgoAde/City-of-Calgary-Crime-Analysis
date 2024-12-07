@@ -122,5 +122,8 @@ Following 2015, crime rates saw a consistent upward trend, emphasizing the need 
 2. **Predictive Modeling:** Leverage machine learning to forecast crime trends.<br><br>
 3. **Anomaly Detection:** Develop models to detect and explain crime spikes like the one in 2015.<br><br>
 
-## Link to Dashboard
-https://tinyurl.com/Explore-the-Dashboard
+## Links
+[Explore the Dashboard](https://bit.ly/City-of-Calgary)<br><br>
+
+[Download the Power BI Report (.pbix)](https://bit.ly/3OIhiQX)
+
