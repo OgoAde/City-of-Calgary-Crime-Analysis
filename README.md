@@ -50,7 +50,7 @@ The workflow included:
 - Post-2015 Consistent Increase: Following the spike in 2015, crime rates continued to rise yearly, highlighting a concerning pattern of growth.<br><br>
 
 4. **Card Visuals:**
-- The dashboard includes interactive card visuals that display key metrics such as the total crime count, total population, crime rate per 1,000 residents, and the average number of crimes per day. These visuals are dynamic and update in response to slicer selections, providing real-time insights based on user input.<br><br>
+- The dashboard includes interactive card visuals that display key metrics such as the total crime count, crime rate per 1,000 residents, and the average number of crimes per day. These visuals are dynamic and update in response to slicer selections, providing real-time insights based on user input.<br><br>
 
 5. **Buttons for Navigation:**
 
@@ -58,9 +58,8 @@ The workflow included:
 
 6. **Slicers for Dynamic Insights:**
 - These slicers enable stakeholders to drill deeper into the data, filtering for specific areas, timeframes, or crime categories.
-- The slicers included are; Crime Category, Crime Type, Ward Number, Sector<br><br>
-![Dashboard Screenshot](https://drive.google.com/uc?id=1zUFcBhs83nCmaJb7hwmDQTWepBkEjKPP)
-
+- The slicers included are; Crime Category, Crime Type, Ward Number, Sector and Year <br><br>
+![Dashboard Screenshot](https://drive.google.com/uc?id=1OdD3HpAMBmeR5bDCMY-JC40UlR03h5Bj)
 
 ## Key Findings
 **Crime Concentration:**
@@ -74,7 +73,8 @@ Crime levels dropped significantly during winter months (December to February).<
 **Yearly Trends:**
 In 2015, total crimes spiked by over 20,000—a notable anomaly compared to previous years.
 Following 2015, crime rates saw a consistent upward trend, emphasizing the need for long-term mitigation strategies.<br><br>
-![Dashboard Screenshot](https://drive.google.com/uc?id=1iBQbdpV7oVQmvfb2FRo8n2k-Qi36HXQJ)
+![Dashboard Screenshot](https://drive.google.com/uc?id=1eLJCk3hbZ2Vw8Ha2DTbim-U7L7eVFGr4)
+
 
 ## Recommendations
 **1. Enhanced Patrols in Crime-Prone Areas:**
@@ -92,7 +92,7 @@ Following 2015, crime rates saw a consistent upward trend, emphasizing the need 
 **5. Data-Driven Allocation of Resources:**
 - Use predictive analytics to allocate law enforcement resources effectively and proactively address high-risk areas.<br><br>
 
-![Dashboard Screenshot](https://drive.google.com/uc?id=1NSj2Ev4p-sp831bxLdQMwkScQNTf2I4T)
+![Dashboard Screenshot](https://drive.google.com/uc?id=1IgA9qF3piB8PAgkhqWPtB4d6wPR_nexv)
 
 ## Methodology
 **Data Cleaning:**
@@ -111,12 +111,9 @@ Following 2015, crime rates saw a consistent upward trend, emphasizing the need 
 3. **Community Awareness:** Provides communities with data to advocate for safety improvements.<br><br>
 
 ## Screenshots
-![Dashboard Screenshot]![Dashboard Screenshot](https://drive.google.com/uc?id=11kSjDiHJqMSoFVy82GVLPDEwDC_Rwrp1)
+![Dashboard Screenshot](https://drive.google.com/uc?id=18Ox2Kyfm6Y6kxxg3aJJBPZzUHg748iev)
 
-![Dashboard Screenshot]![Dashboard Screenshot](https://drive.google.com/uc?id=1FmNEFUFNvKW4-s9ijl-a6b3KvtxcVe57)
-
-
-
+![Dashboard Screenshot](https://drive.google.com/uc?id=1g5tjakwE67n0bBNI0PEotNqwB1fTlP7f)
 
 ## Future Enhancements
 1. **Real-Time Integration:** Incorporate live data feeds for up-to-date crime analysis.<br><br>
@@ -126,5 +123,5 @@ Following 2015, crime rates saw a consistent upward trend, emphasizing the need 
 ## Links
 [Explore the Dashboard](https://bit.ly/City-of-Calgary)<br><br>
 
-[Download the Power BI Report (.pbix)](https://bit.ly/3OIhiQX)
+[Download the Power BI Report (.pbix)](https://tinyurl.com/546weyju)
 
